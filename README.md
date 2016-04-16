@@ -1,2 +1,2 @@
 # references
-Miscellaneous references
+Miscellaneous knowledge references for new technologies
